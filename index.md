@@ -1,14 +1,14 @@
 # 个人信息
 本科毕业于山东大学控制科学与工程学院，硕士毕业于北京理工大学自动化学院，导师为马宏伟老师和马中静老师，本科研究单片机与自控原理，硕士研究方向为计算机视觉与深度学习，主要应用于电力巡检无人机。现阶段在齐鲁空天信息研究院工作，目前主要研究语义分割在无人车与无人机方向的应用及服务部署。
 
-# 教育经历
+## 教育经历
 
-## 控制理论与控制工程——北京理工大学自动化学院(2018.9-2021.6)
-## 自动化——北京理工大学控制理论与工程学院(2014.9-2018.6)
+控制理论与控制工程——北京理工大学自动化学院(2018.9-2021.6)
+自动化——北京理工大学控制理论与工程学院(2014.9-2018.6)
 
-# 发表文章
+## 发表文章
 
-## H. Wang, Y. Shao, S. Zou, Z. Ma and S. Zhao, "Detection of cotter pins missing of connection fittings on transmission lines of power system," 2021 40th Chinese Control Conference (CCC), 2021, pp. 6873-6879, doi: 10.23919/CCC52363.2021.9550162.
+H. Wang, Y. Shao, S. Zou, Z. Ma and S. Zhao, "Detection of cotter pins missing of connection fittings on transmission lines of power system," 2021 40th Chinese Control Conference (CCC), 2021, pp. 6873-6879, doi: 10.23919/CCC52363.2021.9550162.
 ## Header 3
 
 - Bulleted
