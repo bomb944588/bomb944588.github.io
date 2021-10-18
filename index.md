@@ -8,8 +8,8 @@
 
 # 发表文章
 
-## Header 2
-### Header 3
+## H. Wang, Y. Shao, S. Zou, Z. Ma and S. Zhao, "Detection of cotter pins missing of connection fittings on transmission lines of power system," 2021 40th Chinese Control Conference (CCC), 2021, pp. 6873-6879, doi: 10.23919/CCC52363.2021.9550162.
+## Header 3
 
 - Bulleted
 - List
