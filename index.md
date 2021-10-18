@@ -1,16 +1,10 @@
-## Welcome to GitHub Pages
+## 个人信息
+本科毕业于山东大学控制科学与工程学院，硕士毕业于北京理工大学自动化学院，导师为马宏伟老师和马中静老师，本科研究单片机与自控原理，硕士研究方向为计算机视觉与深度学习，主要应用于电力巡检无人机。现阶段在齐鲁空天信息研究院工作，目前主要研究语义分割在无人车与无人机方向的应用及服务部署。
 
-You can use the [editor on GitHub](https://github.com/bomb944588/bomb944588.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育经历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+##控制理论与控制工程——北京理工大学自动化学院(2018.9-2021.6)
+##自动化——北京理工大学控制理论与工程学院(2014.9-2018.6)
 # Header 1
 ## Header 2
 ### Header 3
