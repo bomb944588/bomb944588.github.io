@@ -10,7 +10,7 @@
       <p><b>地址：山东省济南市历城区空天信息科技馆，邮编250100</b></p>
     </tr>  
     <tr width="15%">
-      <img src="/mine.jpg" width="21%">   
+      <img src="/mine.jpg" width="40%">   
     </tr>
   </tr>
 </table>
