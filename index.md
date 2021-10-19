@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <tr width="80%">
-      <h><b>王宏超</b></h>
+      <p><b>王宏超</b></p>
       <p><b>硕士研究生</b></p>
       <p><b>齐鲁空天信息研究院</b></p>
       <p><b>邮箱：ytyzsmdd@126.com</b></p>
