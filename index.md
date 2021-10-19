@@ -2,15 +2,15 @@
 
 <table border="0">
   <tr>
-    <tr width="70%">
+    <tr width="80%">
       <h>王宏超</h>
       <p><b>硕士研究生</b></p>
       <p><b>齐鲁空天信息研究院</b></p>
       <p><b>邮箱：ytyzsmdd@126.com</b></p>
       <p><b>地址：山东省济南市历城区空天信息科技馆，邮编×××</b></p>
     </tr>  
-    <tr width="30%">
-      <img src="/mine.jpg" width="50%">   
+    <tr width="20%">
+      <img src="/mine.jpg" width="40%">   
     </tr>
   </tr>
 </table>
