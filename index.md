@@ -34,7 +34,7 @@ H. Wang, Y. Shao, S. Zou, Z. Ma and S. Zhao, "Detection of cotter pins missing o
 
 ### 开口销脱落检测
 
-![开口销检测](/开口销.png)
+![开口销检测]("/开口销.png")
 
 Connection fittings are widely used in the transmission lines. However, the missing of cotter pins usually happens
 to the bolts of connection fittings due to the complex environment and aging. Cotter pins missing detection is one of the most
