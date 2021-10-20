@@ -30,7 +30,7 @@ H. Wang, Y. Shao, S. Zou, Z. Ma and S. Zhao, "Detection of cotter pins missing o
 ## 参与项目
 
 ### 杆塔识别与倾斜度检测
-
+![开口销检测](/开口销照片.png)
 
 
 ### 开口销脱落检测
