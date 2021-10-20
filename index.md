@@ -30,11 +30,24 @@ H. Wang, Y. Shao, S. Zou, Z. Ma and S. Zhao, "Detection of cotter pins missing o
 ## 参与项目
 
 ### 杆塔识别与倾斜度检测
-![开口销检测](/开口销照片.png)
 
 
 ### 开口销脱落检测
 
+![开口销检测](/开口销照片.png)
+
+Connection fittings are widely used in the transmission lines. However, the missing of cotter pins usually happens
+to the bolts of connection fittings due to the complex environment and aging. Cotter pins missing detection is one of the most
+time-consuming and labor-intensive parts of manual judgment. It belongs to the small target detection because the cotter pins
+with less features in the images are much smaller than other components on transmission lines. This paper designs a three-stage
+cotter pin missing detecting method based on pictures taken by UAVs. The first stage utilizes YOLOv4 to detect insulators and
+locate the connection fittings by extending the predicted bounding box of the insulator in the original pictures. The second stage
+is a small object detection model based on an object network called Faster R-CNN with ResNet-101 backbone.The network of
+this stage detects the bolts on the connection fittings and divides these bolts into two categories. The third stage utilizes the
+DenseNet121 classification network to identify the integrity or missing of the cotter pins. The experimental dataset consists of a
+public dataset and pictures captured by the UAVs from state grid. The result shows the accuracy of the bolts detection exceeds
+90%, and the accuracy of front pins missing detector exceeds 85%. However, the lower accuracy of lateral pins detector due to
+the samples of dataset.
 
 ### 无人机检测目标定位
 
