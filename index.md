@@ -31,13 +31,13 @@ H. Wang, Y. Shao, S. Zou, Z. Ma and S. Zhao, "Detection of cotter pins missing o
 
 ### 杆塔识别与倾斜度检测
 
-![杆塔倾斜度检测]("/杆塔.png")
+![杆塔倾斜度检测](/杆塔.png)
 
 杆塔的倾倒会对整个电网产生严重的破坏并威胁周围居民的生命安全，电力巡检无人机利用计算机视 觉对杆塔进行巡检既节省了人力资源又显著地提高了电网的巡检效率。为了国网巡检人员在杆塔倾倒前及时 得到预警，文章为对电力巡检无人机中的基于计算机视觉的杆塔倾斜检测算法进行了研究，设计了一种基于 YOLOv3 的深度神经网络结合 LSD 线段提取方法对杆塔的倾斜进行检测。利用在山西电网无人机实际巡检的 杆塔图片制作杆塔的 VOC2007 数据集并利用 YOLOv3 神经网络对杆塔进行目标检测，并将检测后得到的 Bounding box 根据网络训练后的 mIOU 参数进行微调后作为 LSD 检测的 ROI。接着，该方法在 ROI 中将检 测的线段进行过滤和融合，根据杆塔特点进行杆塔的二次识别。最后利用得到的杆塔外边线做出该方向上的 杆塔中线并计算杆塔在该方向的倾斜度。该文中实验利用山西国网电力公司提供的数据进行验证，结果表明 杆塔的倾斜检测效果在各种拍摄高度和背景干扰下都较为精确，杆塔目标的正确识别率达到 97%，倾斜度检 测平均误差小于 0.85°。
 
 ### 开口销脱落检测
 
-![开口销脱落检测]("/开口销.png")
+![开口销脱落检测](/开口销.png)
 
 Connection fittings are widely used in the transmission lines. However, the missing of cotter pins usually happens
 to the bolts of connection fittings due to the complex environment and aging. Cotter pins missing detection is one of the most
