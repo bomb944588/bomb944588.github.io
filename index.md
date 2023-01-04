@@ -54,6 +54,9 @@ the samples of dataset.
 
 ### 无人机检测目标定位
 
+基于mqtt数据传输协议，接受deepstream目标检测结果，将uav——imu、相机内外参与目标检测结果送入目标定位算法获取目标定位结果，并加入hash去重，防止同一目标重复发送，部署于px4与dji无人机。
+
+
 
 **Bold** and _Italic_ and `Code` text
 
