@@ -26,6 +26,7 @@
 ## 发表文章
 
 H. Wang, Y. Shao, S. Zou, Z. Ma and S. Zhao, "Detection of cotter pins missing of connection fittings on transmission lines of power system," 2021 40th Chinese Control Conference (CCC), 2021, pp. 6873-6879, doi: 10.23919/CCC52363.2021.9550162.
+王宏超,邵云峰,马中静,等.基于深度学习增强的LSD杆塔倾斜度检测[J].电子测量与仪器学报,2021,35(09):204-213.DOI:10.13382/j.jemi.B2003733.
 
 ## 参与项目
 
@@ -54,8 +55,15 @@ the samples of dataset.
 
 ### 无人机检测目标定位
 
-基于mqtt数据传输协议，接受deepstream目标检测结果，将uav——imu、相机内外参与目标检测结果送入目标定位算法获取目标定位结果，并加入hash去重，防止同一目标重复发送，部署于px4与dji无人机。
+基于mqtt数据传输协议，接受deepstream目标检测结果，将uav——imu、相机内外参与目标检测结果送入目标定位算法获取目标定位结果，并加入hash去重，防止同一目标重复发送，部署于px4与dji无人机。在终端设备上可实时获取定位结果、检测切片、实时rtmp视频流、无人机心跳包。
 
+### UE仿真系统开发
+
+1、UE数据采集系统开发
+
+以蓝图和UMG为主要开发工具，设计了一款具有天气时间控制、关卡场景切换、目标实时添加功能的数据采集工具，主要服务于深度学习算法中的数据集制作，具体服务于zc数据采集项目。
+
+![模拟打击](/模拟打击.png)
 
 
 **Bold** and _Italic_ and `Code` text
