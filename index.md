@@ -74,9 +74,6 @@ the samples of dataset.
 
 此外搭建px4-stil，对从边缘设备发送指令到px4虚拟飞控接受指令并解析，发送mavlink消息给airsim中的px-tpye无人机进行了全流程开发。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 ### 无人模拟训练项目
 
